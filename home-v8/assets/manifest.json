@@ -1,0 +1,539 @@
+{
+  "source": "Figma file mxW7Nq12NwWE4bCToR5ztq, page section 2647:188",
+  "images": [
+    {
+      "file": "images/04b29.png",
+      "figmaNodes": [
+        "2647:10283",
+        "2647:10074"
+      ],
+      "variables": [
+        "imgImage2090010759",
+        "imgCompanyLogo5"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/10e01.svg",
+      "figmaNodes": [
+        "2647:228",
+        "2647:10306",
+        "2647:10333",
+        "2647:10361"
+      ],
+      "variables": [
+        "imgVector9672",
+        "imgVector9673"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/12f27.svg",
+      "figmaNodes": [
+        "2647:228",
+        "2647:10306",
+        "2647:10333",
+        "2647:10361"
+      ],
+      "variables": [
+        "imgVector9670"
+      ],
+      "usedInSite": false
+    },
+    {
+      "file": "images/1518a.svg",
+      "figmaNodes": [
+        "2647:274"
+      ],
+      "variables": [
+        "img8AqBalyqBlack1Vectorized"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/1eb69.png",
+      "figmaNodes": [
+        "2647:10283"
+      ],
+      "variables": [
+        "imgImage2090010750"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/2aa67.svg",
+      "figmaNodes": [
+        "2647:3543"
+      ],
+      "variables": [
+        "imgVector2"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/34071.png",
+      "figmaNodes": [
+        "2647:10254",
+        "2647:10074"
+      ],
+      "variables": [
+        "imgImage2090010754",
+        "imgCompanyLogo1"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/37e41.png",
+      "figmaNodes": [
+        "2647:10361"
+      ],
+      "variables": [
+        "imgBackgroundImage"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/3a3c6.svg",
+      "figmaNodes": [
+        "2647:274"
+      ],
+      "variables": [
+        "imgArrowUpRight"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/3c361.svg",
+      "figmaNodes": [
+        "2647:274"
+      ],
+      "variables": [
+        "imgGroup"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/3f4a0.png",
+      "figmaNodes": [
+        "2647:10172"
+      ],
+      "variables": [
+        "imgImage2090010753"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/423f2.png",
+      "figmaNodes": [
+        "2647:10413"
+      ],
+      "variables": [
+        "imgImage2090010761"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/4d9da.png",
+      "figmaNodes": [
+        "2647:190",
+        "2647:3543"
+      ],
+      "variables": [
+        "imgHeroImage",
+        "imgImage2090010450"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/55a83.svg",
+      "figmaNodes": [
+        "2647:274",
+        "2647:10143",
+        "2647:10172",
+        "2647:10196",
+        "2647:10254",
+        "2647:10283",
+        "2647:10389",
+        "2647:10413"
+      ],
+      "variables": [
+        "imgImage2090010576"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/5ee27.png",
+      "figmaNodes": [
+        "2647:10143",
+        "2647:10074"
+      ],
+      "variables": [
+        "imgImage2090010751",
+        "imgCompanyLogo"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/5fedb.svg",
+      "figmaNodes": [
+        "2649:10529"
+      ],
+      "variables": [
+        "imgLogoSymbol"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/6366f.svg",
+      "figmaNodes": [
+        "2647:10306",
+        "2647:10333",
+        "2647:10361"
+      ],
+      "variables": [
+        "imgVector9671"
+      ],
+      "usedInSite": false
+    },
+    {
+      "file": "images/65171.svg",
+      "figmaNodes": [
+        "2649:10529"
+      ],
+      "variables": [
+        "imgChevronDown"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/6e974.svg",
+      "figmaNodes": [
+        "2649:10529"
+      ],
+      "variables": [
+        "imgUlar"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/71bf2.svg",
+      "figmaNodes": [
+        "2647:274",
+        "2647:10143",
+        "2647:10172",
+        "2647:10389",
+        "2647:10413"
+      ],
+      "variables": [
+        "imgImage2090010577"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/75745.png",
+      "figmaNodes": [
+        "2647:10196"
+      ],
+      "variables": [
+        "imgImage176"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/77815.png",
+      "figmaNodes": [
+        "2647:10196"
+      ],
+      "variables": [
+        "imgImage2090010757"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/82e2e.png",
+      "figmaNodes": [
+        "2647:10333"
+      ],
+      "variables": [
+        "imgBackgroundImage"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/84496.png",
+      "figmaNodes": [
+        "2647:10143"
+      ],
+      "variables": [
+        "imgSaranMachinery1"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/89c0f.png",
+      "figmaNodes": [
+        "2647:10196",
+        "2647:3515"
+      ],
+      "variables": [
+        "imgImage2090010758"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/94930.svg",
+      "figmaNodes": [
+        "2647:3543"
+      ],
+      "variables": [
+        "imgVector1"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/97292.png",
+      "figmaNodes": [
+        "2647:10143"
+      ],
+      "variables": [
+        "imgImage2090010578"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/990c4.png",
+      "figmaNodes": [
+        "2647:10074"
+      ],
+      "variables": [
+        "imgCompanyLogo2"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/a4db1.svg",
+      "figmaNodes": [
+        "2647:228"
+      ],
+      "variables": [
+        "imgVector9671"
+      ],
+      "usedInSite": false
+    },
+    {
+      "file": "images/ae427.png",
+      "figmaNodes": [
+        "2647:10074"
+      ],
+      "variables": [
+        "imgCompanyLogo6"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/b63d1.svg",
+      "figmaNodes": [
+        "2647:274"
+      ],
+      "variables": [
+        "imgGroup1"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/c75bf.svg",
+      "figmaNodes": [
+        "2647:3543"
+      ],
+      "variables": [
+        "imgVector"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/c8b14.png",
+      "figmaNodes": [
+        "2647:10306"
+      ],
+      "variables": [
+        "imgBackgroundImage"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/cca4b.svg",
+      "figmaNodes": [
+        "2647:10074"
+      ],
+      "variables": [
+        "imgVector9658"
+      ],
+      "usedInSite": false
+    },
+    {
+      "file": "images/cebbd.png",
+      "figmaNodes": [
+        "2647:10254"
+      ],
+      "variables": [
+        "imgImage2090010755"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/company-agro.png",
+      "figmaNodes": [],
+      "variables": [],
+      "usedInSite": true,
+      "note": "Фон направления Agro (Companies), 1440×810, добавлен клиентом"
+    },
+    {
+      "file": "images/company-tech.png",
+      "figmaNodes": [],
+      "variables": [],
+      "usedInSite": true,
+      "note": "Фон направления Tech (Companies), 1440×810, добавлен клиентом"
+    },
+    {
+      "file": "images/d32fd.png",
+      "figmaNodes": [
+        "2647:228"
+      ],
+      "variables": [
+        "imgBackgroundImage"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/dd7eb.png",
+      "figmaNodes": [
+        "2647:10389",
+        "2647:10074"
+      ],
+      "variables": [
+        "imgImage2090010760",
+        "imgCompanyLogo4"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/dfbc5.svg",
+      "figmaNodes": [
+        "2647:3543"
+      ],
+      "variables": [
+        "imgVector3"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/e02b1.png",
+      "figmaNodes": [
+        "2647:10172"
+      ],
+      "variables": [
+        "imgImage176"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/e0a35.png",
+      "figmaNodes": [
+        "2647:10254"
+      ],
+      "variables": [
+        "imgImage2090010579"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/e3115.png",
+      "figmaNodes": [
+        "2647:10413"
+      ],
+      "variables": [
+        "imgImage176"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/e5596.svg",
+      "figmaNodes": [
+        "2647:10333",
+        "2647:10361"
+      ],
+      "variables": [
+        "imgVector9672",
+        "imgVector9673"
+      ],
+      "usedInSite": false
+    },
+    {
+      "file": "images/f52bb.png",
+      "figmaNodes": [
+        "2647:10254",
+        "2647:10074"
+      ],
+      "variables": [
+        "imgImage2090010756",
+        "imgCompanyLogo3"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/f822a.svg",
+      "figmaNodes": [
+        "2647:274"
+      ],
+      "variables": [
+        "imgVector"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/fcd79.svg",
+      "figmaNodes": [
+        "2647:10306"
+      ],
+      "variables": [
+        "imgVector9672"
+      ],
+      "usedInSite": false
+    },
+    {
+      "file": "images/fe4a1.svg",
+      "figmaNodes": [
+        "2647:3523"
+      ],
+      "variables": [
+        "imgFrame2131330124"
+      ],
+      "usedInSite": true
+    },
+    {
+      "file": "images/kazakhstan.svg",
+      "figmaNodes": [],
+      "variables": [],
+      "usedInSite": true,
+      "note": "Figma vector export (map dots)"
+    }
+  ],
+  "fonts": [
+    {
+      "file": "fonts/AEONIKPRO-BOLD.OTF",
+      "usedInSite": true
+    },
+    {
+      "file": "fonts/AEONIKPRO-MEDIUM.OTF",
+      "usedInSite": true
+    },
+    {
+      "file": "fonts/AEONIKPRO-REGULAR.OTF",
+      "usedInSite": true
+    },
+    {
+      "file": "fonts/RobotoMono-Regular.ttf",
+      "usedInSite": true
+    }
+  ]
+}
